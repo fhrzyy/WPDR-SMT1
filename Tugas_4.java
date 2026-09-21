@@ -1,7 +1,7 @@
 public class Tugas_4 {
     public static void main(String[] args) {
     
-        int number = 42;
+        int number = 44;
         String size;
 
         switch (number) {
